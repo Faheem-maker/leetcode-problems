@@ -40,6 +40,29 @@ Explore the scripts in each language directory to find solutions to specific pro
 
 **Note**: Make sure to review the code and adapt it to your specific needs before using it in production.
 
+### All Scripts
+<table>
+  <thead>
+    <tr>
+      <th>Script</th>
+      <th>Author</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Developer Stack</td>
+      <td>Faheem Anis</td>
+      <td>A stack with additional features for learning and debugging.</td>
+    </tr>
+    <tr>
+      <td>Stack using Queues</td>
+      <td>Faheem Anis</td>
+      <td>A staack using two queues.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Contributing
 
 Feel free to contribute to this repository by adding new scripts or improving existing ones. Follow these steps to contribute:
